@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT12H
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Swimming basic skills required (Michiel Riemslag (HvdS))
+SUMMARY:Swimming basic skills required (Dirk Dijkstra)
 UID:1ed75beddad4847fe7c75caf6f3bb672
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
