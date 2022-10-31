@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT12H
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Swimming basic skills required (Hendrik Fredericks)
+SUMMARY:Swimming basic skills required (Dirk Dijkstra)
 UID:2152948ae6a0bf0d45cb2c661b061594
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
