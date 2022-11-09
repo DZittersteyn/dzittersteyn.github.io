@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT12H
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Swimming basic skills required (Marlon Connor)
+SUMMARY:Swimming basic skills required (Dirk Dijkstra)
 UID:b8c13e1a616ce9558003becb7b12de39
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
