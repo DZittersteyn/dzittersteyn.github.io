@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT12H
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Basic skills required (Hendrik Fredericks)
+SUMMARY:Basic skills required (Dirk Dijkstra)
 UID:759f662671558f8651e05f449aeb1cbe
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
