@@ -173,7 +173,7 @@ DTEND:20231206T195900Z
 DTSTAMP:20231206T190000Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basic skills required (Frits Telkamp)
+SUMMARY:Basic skills required (Sven Spijkerman)
 UID:d686de12a2e792d5c88f3a2336e806f4
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
@@ -353,7 +353,7 @@ DTEND:20231208T172900Z
 DTSTAMP:20231208T163000Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Basic skills required (Sven Spijkerman)
+SUMMARY:Basic skills required (Frits Telkamp)
 UID:ce401efb53b79f5a608e5f064beb3985
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
