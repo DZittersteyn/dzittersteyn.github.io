@@ -11,8 +11,8 @@ X-PUBLISHED-TTL:PT12H
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Basic skills required (Hendrik Fredericks)
-UID:f37c8ebccf9c50653b8d2ea426aa952f
+SUMMARY:Cancelled - basic skills required (Hendrik Fredericks)
+UID:91cc9e5a25536e4c842743e52491a7a7
 CLASS:PUBLIC
 LOCATION:WAS (Zernikeplein 17), Groningen
 DTSTART:20240702T053500Z
